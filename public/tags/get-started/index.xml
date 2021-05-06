@@ -13,8 +13,7 @@
       <pubDate>Thu, 06 May 2021 15:20:51 +0530</pubDate>
       
       <guid>https://yo.adityaone.com/blog/hugo-blog/</guid>
-      <description>What is Hugo? Hugo is a static-site generator that helps you generate and build static files like HTML, CSS, and JavaScript ahead of time. It is an opensource project built with Go and boasts impressive build times that seems incomparable.
-What does it do? It helps you convert markdown files (the files you will be writing your articles or blog posts in) to the static files that will be served later.</description>
+      <description>Learn and Create a blog with Hugo&amp;hellip;</description>
     </item>
     
   </channel>

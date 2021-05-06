@@ -15,6 +15,7 @@ minify:
     minifyOutput: true
 params:
     env: production
+    description: "Aditya's personal blog. Home of his thoughts, tutorials, and some wisdom 🤔"
     keywords: ["blog", "Aditya", "Vinodh", "technology", "ib", "cas", "programming", "tutorial"]
     mainSections: ["blog", "cas"]
     showReadingTime: true
