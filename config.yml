@@ -1,7 +1,49 @@
 baseURL: 'https://example.org/'
 languageCode: en-us
-title: My New Hugo Site
+title: Aditya's
 theme: PaperMod
 params:
+    mainSections: ["blog", "cas"]
+    showReadingTime: true
+    showToc: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
+    author: ["Aditya"]
+    ShowShareButtons: true
+    comments: true
     defaultTheme: auto
-
+    homeInfoParams:
+            Title: Hi there 👋
+            Content: Welcome to my blog
+    socialIcons:
+            - name: "github"
+              url: "https://github.com/adityavinodh"
+            - name: "twitter"
+              url: "https://twitter.com/THEadityavinodh"
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+menu:
+    main:
+        - identifier: tags
+          name: Tags
+          url: /tags/
+        - identifier: cas
+          name: CAS
+          url: /cas/
+          weight: 10
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 20
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weigth: 40
+        - identifier: search
+          name: Search
+          url: /archive
+          weigth: 50
