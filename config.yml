@@ -1,10 +1,20 @@
 baseURL: 'https://yo.adityaone.com/'
 languageCode: en-us
 title: Aditya's
+paginate: 5
 theme: PaperMod
 taxonomies:
     tag: tags
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+googleAnalytics: G-WJJJ4Z4MG2
+minify:
+    disableXML: true
+    minifyOutput: true
 params:
+    env: production
     mainSections: ["blog", "cas"]
     showReadingTime: true
     showToc: true
