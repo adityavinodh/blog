@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on Aditya&#39;s</title>
+    <link>https://yo.adityaone.com/tags/hugo/</link>
+    <description>Recent content in hugo on Aditya&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 May 2021 15:20:51 +0530</lastBuildDate><atom:link href="https://yo.adityaone.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create a Blog or Website using Hugo</title>
+      <link>https://yo.adityaone.com/blog/hugo-blog/</link>
+      <pubDate>Thu, 06 May 2021 15:20:51 +0530</pubDate>
+      
+      <guid>https://yo.adityaone.com/blog/hugo-blog/</guid>
+      <description>What is Hugo? Hugo is a static-site generator that helps you generate and build static files like HTML, CSS, and JavaScript ahead of time. It is an opensource project built with Go and boasts impressive build times that seems incomparable.
+What does it do? It helps you convert markdown files (the files you will be writing your articles or blog posts in) to the static files that will be served later.</description>
+    </item>
+    
+  </channel>
+</rss>

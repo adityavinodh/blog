@@ -3,7 +3,6 @@ title: "SideTracked"
 date: 2021-05-05T08:04:31+05:30
 draft: false
 tags: ["ib", "cas", "project", "community"]
-weight: 1
 summary: "The Online, Global, Student Community"
 ---
 
