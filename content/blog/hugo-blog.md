@@ -2,6 +2,7 @@
 title: "How to Create a Blog using Hugo"
 date: 2021-05-06T15:20:51+05:30
 draft: false
+summary: "Learn and Create a blog with Hugo..."
 tags: ["tutorial", "hugo", "programming", "guide", "get started", "website", "blog"]
 ---
 

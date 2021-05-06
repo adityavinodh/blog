@@ -15,6 +15,7 @@ minify:
     minifyOutput: true
 params:
     env: production
+    keywords: ["blog", "Aditya", "Vinodh", "technology", "ib", "cas", "programming", "tutorial"]
     mainSections: ["blog", "cas"]
     showReadingTime: true
     showToc: true
