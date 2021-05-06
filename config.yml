@@ -21,6 +21,20 @@ params:
               url: "https://github.com/adityavinodh"
             - name: "twitter"
               url: "https://twitter.com/THEadityavinodh"
+            - name: "youtube"
+              url: "https://www.youtube.com/channel/UCYlTq1cCFGL-tJgSw90TO0g"
+            - name: "linkedin"
+              url: "https://www.linkedin.com/in/adityavinodh/"
+            - name: "instagram"
+              url: "https://www.instagram.com/adityav5000/"
+            - name: "stackoverflow"
+              url: "https://stackoverflow.com/story/adityav"
+            - name: "email"
+              url: "mailto:aditya@adityaone.com"
+            - name: "medium"
+              url: "https://medium.com/@adityavinodh22"
+            - name: "dev"
+              url: "https://dev.to/adityavinodh"
 outputs:
     home:
         - HTML
