@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>get started on Aditya&#39;s</title>
-    <link>https://yo.adityaone.com/tags/get-started/</link>
-    <description>Recent content in get started on Aditya&#39;s</description>
+    <title>cryptocurrency on Aditya&#39;s</title>
+    <link>https://yo.adityaone.com/tags/cryptocurrency/</link>
+    <description>Recent content in cryptocurrency on Aditya&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 11:19:58 +0530</lastBuildDate><atom:link href="https://yo.adityaone.com/tags/get-started/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 11:19:58 +0530</lastBuildDate><atom:link href="https://yo.adityaone.com/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jumping on the Crypto train</title>
       <link>https://yo.adityaone.com/blog/crypto-getting-started/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://yo.adityaone.com/blog/crypto-getting-started/</guid>
       <description>What are cryptocurrencies, how they are different, different factors to consider, and how to get started with your first purchase.</description>
-    </item>
-    
-    <item>
-      <title>How to Create a Blog using Hugo</title>
-      <link>https://yo.adityaone.com/blog/hugo-blog/</link>
-      <pubDate>Thu, 06 May 2021 15:20:51 +0530</pubDate>
-      
-      <guid>https://yo.adityaone.com/blog/hugo-blog/</guid>
-      <description>Learn and Create a blog with Hugo&amp;hellip;</description>
     </item>
     
   </channel>

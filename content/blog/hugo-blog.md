@@ -4,6 +4,10 @@ date: 2021-05-06T15:20:51+05:30
 draft: false
 summary: "Learn and Create a blog with Hugo..."
 tags: ["tutorial", "hugo", "programming", "guide", "get started", "website", "blog"]
+editPost:
+    URL: "https://github.com/adityavinodh/blog/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
 ---
 
 # What is Hugo?
