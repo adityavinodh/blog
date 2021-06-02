@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>development on Aditya&#39;s</title>
+    <link>https://yo.adityaone.com/tags/development/</link>
+    <description>Recent content in development on Aditya&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 15:53:56 +0530</lastBuildDate><atom:link href="https://yo.adityaone.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Your own Editor | But Should You?</title>
+      <link>https://yo.adityaone.com/blog/create-your-own-editor/</link>
+      <pubDate>Thu, 20 May 2021 15:53:56 +0530</pubDate>
+      
+      <guid>https://yo.adityaone.com/blog/create-your-own-editor/</guid>
+      <description>How to add a Text Editor to your Site? What options do you have? Things to consider.</description>
+    </item>
+    
+  </channel>
+</rss>
