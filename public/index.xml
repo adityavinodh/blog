@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aditya&#39;s</title>
-    <link>https://yo.adityaone.com/</link>
+    <link>https://blog.adityaone.com/</link>
     <description>Recent content on Aditya&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 23:13:55 +0530</lastBuildDate><atom:link href="https://yo.adityaone.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 23:13:55 +0530</lastBuildDate><atom:link href="https://blog.adityaone.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Sign Commits on GitHub</title>
-      <link>https://yo.adityaone.com/blog/sign-commits-on-github/</link>
+      <link>https://blog.adityaone.com/blog/sign-commits-on-github/</link>
       <pubDate>Fri, 11 Jun 2021 23:13:55 +0530</pubDate>
       
-      <guid>https://yo.adityaone.com/blog/sign-commits-on-github/</guid>
+      <guid>https://blog.adityaone.com/blog/sign-commits-on-github/</guid>
       <description>Learn how to sign your commits to verify the authenticity on GitHub</description>
     </item>
     
     <item>
       <title>Create Your own Editor | But Should You?</title>
-      <link>https://yo.adityaone.com/blog/create-your-own-editor/</link>
+      <link>https://blog.adityaone.com/blog/create-your-own-editor/</link>
       <pubDate>Thu, 20 May 2021 15:53:56 +0530</pubDate>
       
-      <guid>https://yo.adityaone.com/blog/create-your-own-editor/</guid>
+      <guid>https://blog.adityaone.com/blog/create-your-own-editor/</guid>
       <description>How to add a Text Editor to your Site? What options do you have? Things to consider.</description>
     </item>
     
     <item>
       <title>Jumping on the Crypto train</title>
-      <link>https://yo.adityaone.com/blog/crypto-getting-started/</link>
+      <link>https://blog.adityaone.com/blog/crypto-getting-started/</link>
       <pubDate>Wed, 12 May 2021 11:19:58 +0530</pubDate>
       
-      <guid>https://yo.adityaone.com/blog/crypto-getting-started/</guid>
+      <guid>https://blog.adityaone.com/blog/crypto-getting-started/</guid>
       <description>What are cryptocurrencies, how they are different, different factors to consider, and how to get started with your first purchase.</description>
     </item>
     
     <item>
       <title>How to Create a Blog using Hugo</title>
-      <link>https://yo.adityaone.com/blog/hugo-blog/</link>
+      <link>https://blog.adityaone.com/blog/hugo-blog/</link>
       <pubDate>Thu, 06 May 2021 15:20:51 +0530</pubDate>
       
-      <guid>https://yo.adityaone.com/blog/hugo-blog/</guid>
+      <guid>https://blog.adityaone.com/blog/hugo-blog/</guid>
       <description>Learn and Create a blog with Hugo&amp;hellip;</description>
     </item>
     
     <item>
       <title>SideTracked</title>
-      <link>https://yo.adityaone.com/cas/sidetracked/</link>
+      <link>https://blog.adityaone.com/cas/sidetracked/</link>
       <pubDate>Wed, 05 May 2021 08:04:31 +0530</pubDate>
       
-      <guid>https://yo.adityaone.com/cas/sidetracked/</guid>
+      <guid>https://blog.adityaone.com/cas/sidetracked/</guid>
       <description>The Online, Global, Student Community</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://yo.adityaone.com/blog/my-first-post/</link>
+      <link>https://blog.adityaone.com/blog/my-first-post/</link>
       <pubDate>Tue, 04 May 2021 20:51:19 +0530</pubDate>
       
-      <guid>https://yo.adityaone.com/blog/my-first-post/</guid>
+      <guid>https://blog.adityaone.com/blog/my-first-post/</guid>
       <description>Welcome to my Blog&amp;hellip;</description>
     </item>
     
