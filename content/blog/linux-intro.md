@@ -161,7 +161,7 @@ This is your starting point. But the most important thing you should know, and y
 If you choose Ubuntu for example, it uses a desktop environment called GNOME. This is the default desktop environment that it ships with. This is what gives it the familiar look and feel. If you don't like it, you can install a different one, and it will look completely different. So, if you find a picture of a distro that looks very nice, instead of changing distros, find out what desktop environments and configuration they are using, and just modify your existing setup. It is extremely simple, just a single one-line command will get the job done.
 
 {{< figure src="/gnome.png" caption="GNOME Desktop" >}}
-{{< figure src="/plasma-launcher.png" caption="KDE Plasma Desktop" >}}
+{{< figure src="/plasma-launcher.jpg" caption="KDE Plasma Desktop" >}}
 
 ---
 
