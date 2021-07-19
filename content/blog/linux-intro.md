@@ -15,7 +15,7 @@ editPost:
 # What is Linux?
 
 Linux is another operating system comparable to macOS and Windows.
-Although it is technically not refered to as a wholesome OS like its
+Although it is technically not referred to as a wholesome OS like its
 popular counterparts, there are distributions of Linux
 (flavours/variations) of it which can be directly compared.
 
@@ -58,12 +58,12 @@ efficient compared to their proprietary counterparts. The user is in
 full control of what runs on their system at all times, and any
 component can be removed and installed at any point of time. This causes
 computers to run tasks and perform much better on Linux rather on
-somthing like Windows. 
+something like Windows. 
 
 I can personally vouch for this as I have a new Dell XPS 13 with an
 Intel i7, which initially had Windows 10 Home pre-installed. Although
 there is not much of a performance difference between the Home and Pro
-versions, I should have been recieving excellent performance for the
+versions, I should have been receiving excellent performance for the
 hardware I had. But, I often experienced sluggishness, animations losing
 frames, and the laptop often overheating. Once I jumped on to a linux
 distro (Ubuntu), I immediately experienced extremely snappy responses,
@@ -102,15 +102,15 @@ Linux continuously without any crashes or errors. Even Microsoft, which
 has their own Windows for Servers OS, uses Linux for their servers. They
 usually have high uptime and very rarely crash or provide issues. 
 
-And, my most favourite feature of Linux, is that when something goes
+And, my most favorite feature of Linux, is that when something goes
 wrong, you get very descriptive error messages telling you what and
-where the issue has occured. Using this information, you can most likely
+where the issue has occurred. Using this information, you can most likely
 understand the problem and rectify it, or a quick Google search (or
 Brave, DuckDuckGo, etc.) will always find you the answer from countless
 blog posts and forums where the same question and error has probably
 been answered multiple times. In other OSs, it is almost impossible to
 get help, because when something goes wrong, it just says 'Oops,
-somthing has gone wrong', and you are pretty much helpless. Even if you
+something has gone wrong', and you are pretty much helpless. Even if you
 try to ask someone online, there are probably a 100 possible errors
 which provide the same message.
 
@@ -130,7 +130,7 @@ Whether you are developer writing some important code for a piece of software, o
 
 Software update models depend on the distribution you are going to choose. Some have a rolling release cycle (like Arch Linux) where small incremental updates are released almost every month or week which always keeps you up-to-date with the latest bleeding-edge features. Others push updates around once or twice a year (like Ubuntu). This is generally considered a little more stable as it is more comprehensively been tested. But regardless of what release cycle is used, if you don't want to update your computer, you do not have to. You can say good bye to the annoying windows updates that you are forced to install. 
 
-When the time comes for you to update your system (only if that is what you want), then one simple click or update command, will update every single package and software on your system, including the actual OS. Updating indivual packages separately is also an option.
+When the time comes for you to update your system (only if that is what you want), then one simple click or update command, will update every single package and software on your system, including the actual OS. Updating individual packages separately is also an option.
 
 Another feature about Linux that is really convenient is that for most updates, you do not have to restart or reboot your computer. This is such a time-saver, especially if you are coming from Windows. Every time you update something, or are forced to update something, you might suddenly be asked to reboot your computer. Sometimes, my drivers have suddenly stopped being able to recognize the hardware completely. But on Linux, all of this happens without requiring an update most of the time.
 
@@ -138,13 +138,13 @@ Another feature about Linux that is really convenient is that for most updates, 
 
 This might not be too important to you, but the way Linux handles users is vastly superior. Since it was initially not meant to be used as a traditional desktop, rather on servers, Linux has the capability of multiple users logging into the same computer at the same time and working on something. This could be very useful if you are using it for a server, or just a main computer in your home where you want multiple family members to be able to use it and enjoy their content remotely at the same time.
 
-In addition to multiple simultaneous users, permissions are extremely strict and granular. By default, new users do not have most file access permissions (read, write, executable, etc.). You can specificly add permissions to each user, or add users to groups, and then add permissions for users of the group. Furthermore, the permissions that you add can be incredibly granular, such as for a specific file or directory. This also prevents the risk of some malicious file, script, or virus that somehow has made its way to your computer, to actually do any damage.
+In addition to multiple simultaneous users, permissions are extremely strict and granular. By default, new users do not have most file access permissions (read, write, executable, etc.). You can specifically add permissions to each user, or add users to groups, and then add permissions for users of the group. Furthermore, the permissions that you add can be incredibly granular, such as for a specific file or directory. This also prevents the risk of some malicious file, script, or virus that somehow has made its way to your computer, to actually do any damage.
 
 ## Software management
 
-Finally, linux fully embraces the open source idealogy. Most software that is used is open source, but also includes propreitary software. But, the main difference from Windows and macOS is how Linux decides to manage software. All distributions ship with a package manager. This is the defualt on the system, but you also have the option to install aditional ones. A package manager is a tool to help you install any software you want. It maintains a repository of sotware developed by many developers. As long as the software you want is available in the repository, a simple click or command with the program name is enough to install the entire software with all its dependencies. No annoying installation wizards. It takes care of the entire setup for you.
+Finally, linux fully embraces the open source idealogy. Most software that is used is open source, but also includes proprietary software. But, the main difference from Windows and macOS is how Linux decides to manage software. All distributions ship with a package manager. This is the default on the system, but you also have the option to install additional ones. A package manager is a tool to help you install any software you want. It maintains a repository of software developed by many developers. As long as the software you want is available in the repository, a simple click or command with the program name is enough to install the entire software with all its dependencies. No annoying installation wizards. It takes care of the entire setup for you.
 
-If the software is not available in the repository, maybe because it is propreitary, you have a few options. Some popular distributions include repositories where all the software is contributed by individual users and developers. The information and instructions to install the software will be provided by the company or developer (usually on their website). So, you can download it from there. The last option is to compile it from source. This is something that will not make sense for the average user, but is still an option. It is very benefical even though it is difficult, as it allows for you to use a piece of software that would otherwise not be available. Basically it means, you download the source code (the actual code that the developers wrote), download and install any necessary dependencies, and then compile the app yourself for it to be run on your system. Usually this compilation step is done by the developers, and all you need to do is install the actuall binary file (.exe, .dmg, .pkg, .deb, .rpm, etc.) and do a quick install.
+If the software is not available in the repository, maybe because it is proprietary, you have a few options. Some popular distributions include repositories where all the software is contributed by individual users and developers. The information and instructions to install the software will be provided by the company or developer (usually on their website). So, you can download it from there. The last option is to compile it from source. This is something that will not make sense for the average user, but is still an option. It is very beneficial even though it is difficult, as it allows for you to use a piece of software that would otherwise not be available. Basically it means, you download the source code (the actual code that the developers wrote), download and install any necessary dependencies, and then compile the app yourself for it to be run on your system. Usually this compilation step is done by the developers, and all you need to do is install the actually binary file (.exe, .dmg, .pkg, .deb, .rpm, etc.) and do a quick install.
 
 # Getting Started
 
@@ -154,7 +154,7 @@ There are pretty much no prerequisites or minimum system requirements. All you n
 
 ## Choosing a distro
 
-This is your starting point. But the most important thing you should know, and you will hear this advice everywhere, is to not distro hop. Choose one, use it as your daily driver atleast for 6 months, get a good feel for it, start customizing it to your taste, and then you can change distributions if you want. This most common misconception is to change distros because you think another distro looks better.
+This is your starting point. But the most important thing you should know, and you will hear this advice everywhere, is to not distro hop. Choose one, use it as your daily driver at least for 6 months, get a good feel for it, start customizing it to your taste, and then you can change distributions if you want. This most common misconception is to change distros because you think another distro looks better.
 
 ### Desktop Environments
 
@@ -179,7 +179,7 @@ Once you download the file make sure it ends with '.iso'. That is the disk image
 
 ### Preparing the installation medium
 
-Now, we need to create a bootable USB drive to install the OS. Traditionally CDs or DVDs were used, but know using a USB Flash Drive is the norm. There are programs that will help us easily format our flash drive in the right way with our disk image on it such that the computer will be able to recognise it and boot from it. I recomment balenaEthcer as it is cross-compatible with Windows, macOS and Linux, so that the steps won't change. In addition to that, it is dead simple to use.
+Now, we need to create a bootable USB drive to install the OS. Traditionally CDs or DVDs were used, but know using a USB Flash Drive is the norm. There are programs that will help us easily format our flash drive in the right way with our disk image on it such that the computer will be able to recognize it and boot from it. I recommend balenaEthcer as it is cross-compatible with Windows, macOS and Linux, so that the steps won't change. In addition to that, it is dead simple to use.
 
 Go to the [balenaEtcher](https://www.balena.io/etcher/) site and download their tool. Once you have downloaded and installed it, plug in your flash drive. Make sure the contents of the flash drive are safely backed up somewhere else, as we are going to completely format it and write it over. Once you are sure that the flash drive is safe to be formatted, open up balenaEthcer. 
 
@@ -191,11 +191,11 @@ Click on select file, and select the ISO file you just downloaded. Then select t
 
 > Warning: This is a beginner's guide and will go over the setup to install the Linux distro on your entire system, formatting your drive in the process. It will not go over dual-booting, creating a separate partition, etc. That will be posted soon in a future post. PLEASE BACKUP your entire data in advance as all of your files and the OS will get deleted.
 
-Please read the above warning before continuing. An option to explore if you don't want to immediately install on actual hardware is a virtual machine. Software like virtualbox from Oracle allow you to quickly and easily create virtual machines (isolated boxes) running any distro or OS you want without affecting your computer. However, it has a minimum hardware requirement of atleast 8GB of RAM/memory, atleast 100GB of disk space, etc. to run smoothly.
+Please read the above warning before continuing. An option to explore if you don't want to immediately install on actual hardware is a virtual machine. Software like virtualbox from Oracle allow you to quickly and easily create virtual machines (isolated boxes) running any distro or OS you want without affecting your computer. However, it has a minimum hardware requirement of at least 8GB of RAM/memory, at least 100GB of disk space, etc. to run smoothly.
 
 ---
 
-Plug in your flash drive and boot up your computer. Enter the BIOS setup in your laptop or comupter and make the following changes. You have to do this while your computer starts/boots up. This can be done usually by pressing F2, but it might differ depending on the computer you have. A quick search for the brand or hardware that you are using will get you the right key.
+Plug in your flash drive and boot up your computer. Enter the BIOS setup in your laptop or computer and make the following changes. You have to do this while your computer starts/boots up. This can be done usually by pressing F2, but it might differ depending on the computer you have. A quick search for the brand or hardware that you are using will get you the right key.
 
 Then, make sure to set the flash drive to be at the top of the boot order. This will ensure that we boot from the flash drive instead of from the Hard Drive or SSD the normal way. 
 
@@ -213,7 +213,7 @@ If you are using a SSD instead of a Hard Drive, it might not be detected. When y
 
 If it asks if you want a minimal or Normal installation, it depends on your preference. It is again self-explanatory, but anyways, it just means that they will pre-install helpful software such as an Office Suite, a video player, etc. to help you start using the computer right away.
 
-Make sure you select the option to **Download Updates while Installing** so that it gives you a fully updated system. Most importantly, select the option to install **propreitary drivers** to make sure you can make use of your hardware to its fullest potential.
+Make sure you select the option to **Download Updates while Installing** so that it gives you a fully updated system. Most importantly, select the option to install **proprietary drivers** to make sure you can make use of your hardware to its fullest potential.
 
 Then, choose the option to erase disk and install. This is the simplest option which will delete all your previous data and OS. Make sure that you have backed up your data. There are other options also to install it alongside the existing OS (dual-boot), but that is slightly complicated as you have to manually partition your hard drive or SSD. You can optionally encrypt the hard drive or SSD with a password. This is similar to BitLocker on Windows. It allows you to protect your data even if someone removes your hard drive.
 
@@ -241,7 +241,7 @@ If it is not there, open the terminal app (usually accessible via the keybind <k
 apt search {program name}
 ```
 
-Replace {program name} with the actual name of the app you want to install. If you want to install spotify for example, just search for it, and see if it is available. This command will help you find the correct app name as it might be different from what you might expect. The description of the app given can also help you identify it.
+Replace {program name} with the actual name of the app you want to install. If you want to install Spotify for example, just search for it, and see if it is available. This command will help you find the correct app name as it might be different from what you might expect. The description of the app given can also help you identify it.
 
 Once you find the right program, install it using:
 
