@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>business on Aditya&#39;s</title>
+    <link>https://blog.adityaone.com/tags/business/</link>
+    <description>Recent content in business on Aditya&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jul 2021 10:51:16 +0530</lastBuildDate><atom:link href="https://blog.adityaone.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux for Businesses</title>
+      <link>https://blog.adityaone.com/blog/linux-for-businesses/</link>
+      <pubDate>Thu, 22 Jul 2021 10:51:16 +0530</pubDate>
+      
+      <guid>https://blog.adityaone.com/blog/linux-for-businesses/</guid>
+      <description>Use Linux for your business and save money on licenses and anti-virus software! Improve your productivity and efficiency with Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

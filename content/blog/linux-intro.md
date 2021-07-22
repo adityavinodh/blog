@@ -3,7 +3,7 @@ title: "Ultimate Beginner's Guide for Linux"
 date: 2021-06-29T18:55:46+05:30
 draft: false
 summary: "Learn about Linux, its fundamental concepts, and get started right away!"
-tags: ["tutorial", "linux", "beginner", "guide", "get started", "install", "basics", "fundamentals"]
+tags: ["tutorial", "linux", "beginner", "guide", "get started", "install", "basics", "fundamentals", "open-source"]
 editPost:
     URL: "https://github.com/adityavinodh/blog/tree/main/content"
     Text: "Suggest Changes"
